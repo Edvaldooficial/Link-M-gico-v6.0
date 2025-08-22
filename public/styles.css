@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 20px; background: #f9f9f9; }
+header { text-align: center; margin-bottom: 20px; }
+button { margin: 5px; padding: 10px 15px; border-radius: 8px; border: none; cursor: pointer; background: #007bff; color: #fff; }
+button:hover { background: #0056b3; }
+#chatWindow { border: 1px solid #ccc; padding: 10px; margin: 10px 0; height: 200px; overflow-y: auto; background: #fff; }
+.user { color: blue; margin-bottom: 5px; }
+.bot { color: green; margin-bottom: 5px; }
+.hidden { display: none; }
